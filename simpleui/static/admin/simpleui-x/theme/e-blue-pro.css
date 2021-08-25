@@ -191,7 +191,10 @@ a:visited {
 .quick-card a:hover {
     color: rgba(59, 161, 223, 0.8) !important;
 }
-
+.module caption{
+	background: #3ba1df !important;
+	color: #FFF !important;
+}
 .logo-wrap {
     background-color: #3ba1df !important;
     color: #FFF;

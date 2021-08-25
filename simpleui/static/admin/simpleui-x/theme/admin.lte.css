@@ -155,11 +155,14 @@ a:visited {
   color: rgba(32, 150, 200, 0.8) !important;
 }
 .module h2,
-.module caption,
 .inline-group h2,
 .selector-chosen h2 {
   background: #fff !important;
   color: #FFF !important;
+}
+.module caption{
+	background: #3c8dbc !important;
+	color: #FFF !important;
 }
 #changelist .actions {
   min-height: 38px;

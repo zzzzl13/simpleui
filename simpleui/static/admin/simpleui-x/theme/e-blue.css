@@ -192,6 +192,11 @@ a:visited {
     color: rgba(59, 161, 223, 0.8) !important;
 }
 
+.module caption{
+	background: #3ba1df !important;
+	color: #FFF !important;
+}
+
 .menu .el-menu-item {
     color: #484848 !important;
 }
